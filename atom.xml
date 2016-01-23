@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Swapneel</title>
+ <link href="http://example.com/atom.xml" rel="self"/>
+ <link href="http://example.com"/>
+ <updated>2016-01-23T20:54:44+05:30</updated>
+ <id>http://example.com</id>
+ <author>
+   <name>Swapneel</name>
+   <email>swapneel@brainattic.in</email>
+ </author>
+
+ 
+ <entry>
+   <title>what-and-why-fosstr</title>
+   <link href="http://example.com/fosstr/2015/06/18/what-and-why-fosstr.html"/>
+   <updated>2015-06-18T19:23:54+05:30</updated>
+   <id>http://example.com/fosstr/2015/06/18/what-and-why-fosstr</id>
+   <content type="html">&lt;p&gt;I gave &lt;a href=&quot;https://speakerdeck.com/digen/fosstr-what-and-why&quot;&gt;this&lt;/a&gt; presentation in the last &lt;a href=&quot;https://fosstr.org&quot;&gt;fosstr&lt;/a&gt; meetup covering the journey so far, challenges we’re facing and suggestions for growing the group.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Journey to Hillhacks</title>
+   <link href="http://example.com/hillhacks/travel/2015/05/30/journey-to-hillhacks.html"/>
+   <updated>2015-05-30T14:56:09+05:30</updated>
+   <id>http://example.com/hillhacks/travel/2015/05/30/journey-to-hillhacks</id>
+   <content type="html">&lt;p&gt;Journey to Hillhacks involved multiple pitstops and it began with a bus ride(Kadamba Transport) from Belgaum Central Bus Stand to Margao(Goa). As I had to travel to Panaji since accomodation for the night(28th) had been booked at the Old Quarter Hostel Dorm. Unfortunately, there wasn’t a bus going directly to Panaji post 3PM. So the plan was to take the bus to Margao, get down at Banastarim Bridge which is roughly 15Kms from Panaji and then be fortunate enough to get a bus/transport/hitch-hike to Panaji.&lt;/p&gt;
+
+&lt;p&gt;The plan had to be improvised since there was an accident at Chorla Ghat causing massive road block for 30 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/content_link/6vW0E1OCTh5IhAktQs8rMqI1mCM1QvG9mSO0bSMSkTVO5ttdCzkxFA5ondKkg5nB/file?dl=1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With no way of knowing whether I’d be able to get a bus from Banastarim late in the evening, instead, I got down at Sanquelim Bus Stand, got a bus from KSRTC headed to Panaji. The bus reached Panaji Bus Stand at 9PM.&lt;/p&gt;
+
+&lt;p&gt;Walked a bit to reach Old Quarter Hostel. It’s a beautiful place to meet interesting people.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/dk287p584k9yy66/IMG_20150529_001235.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is part of the Dorm and my bed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/6wmpqhe4ciylz1f/IMG_20150528_212942.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Left early morning at 7:00AM on the 29th, hopped into a bus going towards Vasco, got down at Chicalim. Got a bus at the opposite road of the Goa International Airport. Flight left at 10:30AM and reached at 12:45:PM.  First thing I did at Delhi was to head to &lt;a href=&quot;http://www.karimhoteldelhi.com/&quot;&gt;Karim’s&lt;/a&gt; and feast on delicious chicken curry and roti’s. The one mistake I made was to overlook the option to commute via the Metro from the Airport to somewhere nearby the Red Fort.  Instead, I took a bus which took longer.&lt;/p&gt;
+
+&lt;p&gt;Next destination was to book the bus ticket from Delhi to McLeod Gunj/Dharamshala. The easiest way to do this would’ve been to book it online via &lt;a href=&quot;http://redbus.in&quot;&gt;Redbus&lt;/a&gt; but since I had time to kill and that BSNL 3G internet failed to work ( it failed to work in Goa as well o_O), it made sense to roam a bit, see the city and hopefully meet interesting people along the way. Managed to book a ticket at Majnu ka tilla which cost Rs. 1000/- which would leave at 7PM from Majnu ka Tilla.&lt;/p&gt;
+
+&lt;p&gt;At 4:30PM, decided that I’ll venture out to buy electronic gear (GoPro accessories etc ) but did not know the specifics of where I’d be able to find it. So I decided to try my luck at Connaught Place. Thankfully, after a bit of asking around, was able to find GoPro accessories at Palika Bazaar. Made my way back to Majnu ka Tilla at 6:35PM.&lt;/p&gt;
+
+&lt;p&gt;Had Raj Kachori for dinner :D&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/7z1o0jok2he5hg4/IMG_20150529_205419.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Reached McLeod Gunj at 6:30PM and made my way to Shiv Shakti Guest House after taking a taxi from the bus stand.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/balfy5cbsoot4jw/IMG_20150530_081516.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally, camping at &lt;a href=&quot;http://hillhacks.in&quot;&gt;Hillhacks&lt;/a&gt; :D&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/2sbwky8mibnztb3/IMG_20150531_091102.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The only thing I felt I could have been much prepared is with regards to mobile Internet. For some reason, the BSNL 3G internet SIM I intended to use in the Dlink 3G Router failed to work. The other part I was sad about was that I missed my &lt;a href=&quot;http://github.com/digen&quot;&gt;Github&lt;/a&gt; daily streak.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jon Krakauer, Into the Wild
+I now walk into the wild&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
