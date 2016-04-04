@@ -4,13 +4,47 @@
  <title>The blog of Swapneel</title>
  <link href="http://example.com/atom.xml" rel="self"/>
  <link href="http://example.com"/>
- <updated>2016-01-23T20:54:44+05:30</updated>
+ <updated>2016-04-04T19:53:05+05:30</updated>
  <id>http://example.com</id>
  <author>
    <name>Swapneel</name>
    <email>swapneel@brainattic.in</email>
  </author>
 
+ 
+ <entry>
+   <title>Python & Django Workshop at Gogte Institute of Technology and Engineering</title>
+   <link href="http://example.com/programming/workshop/python/django/2016/02/12/python-django-workshop-gogte-engineering-college.html"/>
+   <updated>2016-02-12T14:56:09+05:30</updated>
+   <id>http://example.com/programming/workshop/python/django/2016/02/12/python-django-workshop-gogte-engineering-college</id>
+   <content type="html">&lt;p&gt;A few weeks ago, I had the opportunity to conduct a workshop at Gogte Institute of Technology and Engineering in Introduction to Python and Django to students of 6th &amp;amp; 8th semester of Electronics and Communication branch.&lt;/p&gt;
+
+&lt;p&gt;The motivations of the college to conduct the workshop was primarily to introduce Python and Django to the students so that they are in a position to learn Python and build a small application which otherwise isn’t covered in the syllabus. The other &amp;amp; most important reason I was told was since students of E&amp;amp;C branch eventually attend campus recruitments wherein the majority of IT companies are primarily into web/mobile software/application development and less into embedded systems/core electronics, it becomes difficult for them compete. While the reasons appear quite obvious, it’s certainly important for me to know the motivations well in advance.&lt;/p&gt;
+
+&lt;p&gt;Considering this, I decided to experiment with the schedule &amp;amp; had proposed for the workshop to be split into 2 hours everyday for 10 days. In hindsight, based on the overall feedback received after the workshop, it would be biased and naive for me to conclude that this method worked well. Perhaps, more such workshops with a similar format and there could be clarity on how this method fares in comparison to day long workshop.&lt;/p&gt;
+
+&lt;p&gt;The primary objective I felt the workshop could satisfy, provided that it was broken down into few numbers of hours per day rather that 6-8 hours in a day were,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting students to understand OOP, think in terms of software(how a software should function, features etc).&lt;/li&gt;
+  &lt;li&gt;Embrace failure while learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I believe format is an important factor especially when teaching/conducting workshops to non-computer science students. I’ll reserve ‘One day workshop vs Few hours daily x n days Workshop’ as a future blog post.&lt;/p&gt;
+
+&lt;p&gt;I was able to start the workshop on 20th January and conclude on 6th February. Few days were lost due to my absence(planned), Sundays, non-availability of labs etc.&lt;/p&gt;
+
+&lt;p&gt;Majority of the students had brought laptops and this helped in continuity.  Since all except one, had Windows OS pre-installed, I had the golden opportunity to use Windows for 10 days after a very long time.&lt;/p&gt;
+
+&lt;p&gt;At the end, was felicitated by The Principal with a lovely memento.&lt;/p&gt;
+
+&lt;p&gt;Overall, I thoroughly enjoyed sharing and presenting and in due process also got to learn a few things.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.dropbox.com/s/kaukhoju6y1vn9c/IMG-20160311-WA0006.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.dropbox.com/s/4hykhjaciwivaf8/IMG_20160224_115537.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>what-and-why-fosstr</title>
