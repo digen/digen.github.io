@@ -4,13 +4,36 @@
  <title>The blog of Swapneel</title>
  <link href="http://example.com/atom.xml" rel="self"/>
  <link href="http://example.com"/>
- <updated>2016-04-04T20:05:55+05:30</updated>
+ <updated>2016-04-09T15:04:15+05:30</updated>
  <id>http://example.com</id>
  <author>
    <name>Swapneel</name>
    <email>swapneel@brainattic.in</email>
  </author>
 
+ 
+ <entry>
+   <title>Call for cyclists and runners of Belgaum</title>
+   <link href="http://example.com/cyclists/runners/belgaum/2016/03/14/call-for-cyclists-runners-belgaum.html"/>
+   <updated>2016-03-14T14:56:09+05:30</updated>
+   <id>http://example.com/cyclists/runners/belgaum/2016/03/14/call-for-cyclists-runners-belgaum</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/s/a8ox4602h4djg1p/Picture.jpg?dl=0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On Sunday(16th March 2016), various cyclists and runners of Belgaum (around 15-20 )  got together and discussed various ideas and possibilities of coming together every month. At the end, it was decided to meet and cycle/run on the 2nd Sunday of every month at 7AM. The motivations for doing this were,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A larger group rather than a scattered few - This is a must in case of presenting requests to the Government etc&lt;/li&gt;
+  &lt;li&gt;This will hopefully incentivise people to take different/longer routes in the company of others. Hopefully, I will have company in my evening rides&lt;/li&gt;
+  &lt;li&gt;Meet people !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my opinion, this is a nice initiative. Huge props to everyone behind this.  Speaking for myself, it certainly becomes a barrier to meet and go for a cycling ride in a group every day or frequently. Primarily, due to misalignment in the timings/work commitments etc. Once a month getting together and going for a run or for a ride is definitely doable.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this blog post is, if you are into cycling or running or are even remotely interested, please join us. Plus it’s a great incentive to meet people passionate/interested in the same sports.&lt;/p&gt;
+
+&lt;p&gt;Will update this post as soon as the starting point is decided.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Python & Django Workshop at Gogte Institute of Technology and Engineering</title>
